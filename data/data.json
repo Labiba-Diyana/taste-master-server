@@ -10,24 +10,27 @@
         "recipeInfo": [
             {
                 "id": "A1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.5,
+                "recipeName": "Indian Chicken Curry",
+                "ingredients": "Chicken, Red Chilli, Coriander, Salt, Oil etc.",
+                "method": "Saute a diced onion in olive oil until lightly browned. Stir in the seasonings (garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt). Add the chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce the heat, and simmer for 20 to 25 minutes. Remove the bay leaf and stir in the lemon juice and cayenne pepper. Continue simmering for about 5 more minutes."
             },
             {
                 "id": "A2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.7,
+                "recipeName": "Naan",
+                "ingredients": "Warm water, white sugar, mil, egg, salt etc.",
+                "method": "Start by making an easy egg-enriched yeast dough, then let it rise for one hour. Next, punch the dough down and knead in minced garlic or other desired fillings before letting it rise a second time. Cook the naan dough on a grill pan over high heat until golden brown and puffy."
             },
             {
                 "id": "A3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4,
+                "recipeName": "Red Lentil Curry",
+                "ingredients": "Red lentils, onion, vegetable oil, curry paste, curry powder etc.",
+                "method": "Wash lentils in cold water until water runs clear. Put lentils in a pot with enough water to cover. bring to a boil and reduce heat to medium-low. Cover and simmer, adding water as needed to keep lentils covered, until tender, 15 to 20 minutes."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     },
 
     {
@@ -41,55 +44,61 @@
         "recipeInfo": [
             {
                 "id": "B1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 3.5,
+                "recipeName": "Kheer",
+                "ingredients": "Milk, Sugar, Rice, Ground Cardamom, Rose Water etc.",
+                "method": "Bring coconut milk, milk, and sugar to a boil in a large saucepan over medium heat. Add rice, reduce the heat to low, and simmer until mixture thickens and rice is tender, about 20 minutes."
             },
             {
                 "id": "B2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.5,
+                "recipeName": "Chicken Makhani",
+                "ingredients": "Peanut Oil, Onion, Chicken Red Chilli, Coriander etc.",
+                "method": "Heat 1 tablespoon oil in a large saucepan over medium-high heat. Sauté shallot and onion until soft and translucent, about 5 minutes. Stir in butter, ginger-garlic paste, lemon juice, 1 teaspoon garam masala, chili powder, cumin, and bay leaf. Cook and stir for 1 minute. Add tomato sauce, and cook for 2 minutes, continuing to frequently stir."
             },
             {
                 "id": "B3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.8,
+                "recipeName": "Chana Masala",
+                "ingredients": "Chicken, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "Heat olive oil in a large skillet over medium heat. Fry bay leaves in hot oil until fragrant, about 30 seconds. Pour the paste into the skillet and cook until the oil begins to separate from the mixture and is golden brown in color, 2 to 3 minutes. Season the mixture with chili powder, coriander, gram masala, turmeric, and salt; cook and stir until very hot, 2 to 3 minutes."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     },
 
     {
         "_id": "dc486590a7f123b9e2ca5867b3198f4e",
         "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
         "name": "Ranveer Brar",
-        "bio": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach",
+        "bio": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach.",
         "experience": 6,
         "recipes": 3,
         "likes": 56,
         "recipeInfo": [
             {
                 "id": "C1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.3,
+                "recipeName": "Basmati Rice",
+                "ingredients": "Rice, Onion, Oil, Water, Salt etc.",
+                "method": "Place rice into a bowl with enough water to cover. Set aside to soak for 20 minutes. Meanwhile, in the last 10 minutes of soaking, heat oil in a large pot or saucepan over medium heat. Add cinnamon stick, cardamom pods, and cloves, then stir in cumin seed. Cook and stir until fragrant and toasted, about a minute, then add onion to the pot. Saute onion until the color is a rich golden brown, about 10 minutes."
             },
             {
                 "id": "C2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.2,
+                "recipeName": "Gulab Jamun",
+                "ingredients": "Sugar, Oil, Rose Water, Almonds, Cardamom etc.",
+                "method": "In a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. Mix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes."
             },
             {
                 "id": "C3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.5,
+                "recipeName": "Tandoori Chicken",
+                "ingredients": "Chicken, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "Remove and discard skin from chicken pieces. Cut slits into meat and place into a shallow dish. Season chicken on both sides with lemon juice and salt. Let sit for 20 minutes."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     },
 
     {
@@ -103,24 +112,27 @@
         "recipeInfo": [
             {
                 "id": "D1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.4,
+                "recipeName": "Tandoori Chicken",
+                "ingredients": "Chicken, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "Remove and discard skin from chicken pieces. Cut slits into meat and place into a shallow dish. Season chicken on both sides with lemon juice and salt. Let sit for 20 minutes."
             },
             {
                 "id": "D2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.2,
+                "recipeName": "Vegetarian Korma",
+                "ingredients": "Chicken, Red Chilli, Coriander, Salt, Oil etc.",
+                "method": "Heat oil in a skillet over medium heat. Add onion; cook and stir until tender, about 2 to 3 minutes. Stir in garlic and ginger; cook and stir until fragrant, about 1 minute."
             },
             {
                 "id": "D3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.1,
+                "recipeName": "Indian Chapati Bread",
+                "ingredients": "Whole wheat flour, Water, Oil, Salt, Sugar etc.",
+                "method": "Mix flours and salt in a large bowl. Use a wooden spoon to stir in water and olive oil. Mix until a soft, elastic dough forms and add more water, if needed. Knead dough on a lightly floured surface until smooth."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     },
 
     {
@@ -134,24 +146,27 @@
         "recipeInfo": [
             {
                 "id": "E1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 5,
+                "recipeName": "Easy Garam Masala",
+                "ingredients": "Chicken, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "There's no need to buy store-bought garam masala when you have all the ingredients you need to make the spice blend at home! This easy garam masala recipe will quickly become a go-to in your kitchen."
             },
             {
                 "id": "E2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.2,
+                "recipeName": "Authentic Saag Paneer",
+                "ingredients": "Red lentils, onion, vegetable oil, curry paste, curry powder etc.",
+                "method": "Bring a large saucepan of water to a boil; add spinach and fenugreek and cook until wilted, about 3 minutes. Drain well; transfer to a food processor and blend until finely chopped, about 5 pulses."
             },
             {
                 "id": "E3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.4,
+                "recipeName": "Beef Samosas",
+                "ingredients": "Red lentils, onion, vegetable oil, curry paste, curry powder etc.",
+                "method": "Bring a large saucepan of water to a boil; add spinach and fenugreek and cook until wilted, about 3 minutes. Drain well; transfer to a food processor and blend until finely chopped, about 5 pulses."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     },
     
     {
@@ -165,23 +180,26 @@
         "recipeInfo": [
             {
                 "id": "F1",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.5,
+                "recipeName": "Aloo Matar",
+                "ingredients": "Onion, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "Bring a large saucepan of water to a boil; add spinach and fenugreek and cook until wilted, about 3 minutes. Drain well; transfer to a food processor and blend until finely chopped, about 5 pulses."
             },
             {
                 "id": "F2",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.6,
+                "recipeName": "Rasmalai",
+                "ingredients": "Sugar, Oil, Rose Water, Almonds, Cardamom etc.",
+                "method": "In a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. Mix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes."
             },
             {
                 "id": "F3",
-                "recipeName": "burger",
-                "ingredients": "gjkh",
-                "method": "fgfh"
+                "ratings": 4.5,
+                "recipeName": "Saag Paneer",
+                "ingredients": "Onion, Oil, REd Chilli, Tomato, Potato etc.",
+                "method": "Bring a large saucepan of water to a boil; add spinach and fenugreek and cook until wilted, about 3 minutes. Drain well; transfer to a food processor and blend until finely chopped, about 5 pulses."
             }
-        ],
-        "ratings": 4.5
+        ]
+        
     }
 ]
